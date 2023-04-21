@@ -31,7 +31,7 @@ O programa desenvolve é um programa gratuito de formação e inclusão de talen
 - JavaScript
 
 ### O que aprendi
-Esse projeto me auxiliou a compreender melhor como utilizar o Javascript junto com HTML para tornar a página dinâmica. Alterando as classes no HTML foi possível alterar os valores clicando no botão "+" ou "-" e após isso foi também possível alterar os valores de força, velocidade, poder e eneria do robô. Essa atividade reforçou o conhecimento em functions, addEventListener, querySelectorAll.
+Esse projeto me auxiliou a compreender melhor como utilizar o Javascript junto com HTML para tornar a página dinâmica. Alterando as classes no HTML foi possível alterar os valores clicando no botão "+" ou "-" e após isso foi também possível alterar os valores de força, velocidade, poder e energia do robô. Essa atividade reforçou o conhecimento em functions, addEventListener, querySelectorAll.
 
 ## Créditos
 - Projeto desenvolvido no curso "Manipulando o DOM" na plataforma Alura 💙
